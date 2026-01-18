@@ -17,7 +17,10 @@ public class ReverseNumber {
 		for (Object object : s) {
 			System.out.println(object);
 		}
-		
+		Collections.sort(s);
+		for (Object object : s) {
+			System.out.println(object);
+		}
 	}
 
 }
