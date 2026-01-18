@@ -12,7 +12,7 @@ public class FindMaxNumber {
 		a.add(34);
 		a.add(2);
 		a.add(78);
-		Collections.sort(a);
+		Collections.sort(a);       ///by using collections sorting
 		for (Integer integer : a) {
 			System.out.println(integer);
 		}
