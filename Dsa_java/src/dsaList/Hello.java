@@ -9,7 +9,7 @@ public class Hello {
 		   System.out.println("Satara");///adding statement
 		System.out.println("Satara123");
 		for (int i = 0; i <10; i++) {
-			System.out.println("Prasad");
+			System.out.println("Prasad"); ////adding loop statement for printing same statement multiple time
 		}
 
 
